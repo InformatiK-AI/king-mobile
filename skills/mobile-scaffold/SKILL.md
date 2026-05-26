@@ -1,4 +1,4 @@
-﻿---
+---
 name: mobile-scaffold
 version: 1.0
 description: "Genera proyectos React Native (Expo managed o bare) y Flutter con navegación, state management y native bridges preconfigurados."

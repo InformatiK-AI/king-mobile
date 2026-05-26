@@ -1,4 +1,4 @@
-﻿---
+---
 name: mobile-deploy
 version: 1.0
 description: "Configura CI/CD para submission automatizada a iOS App Store y Google Play Store via GitHub Actions, con gestión activa de credenciales (App Store Connect API + Google Play Service Account)."

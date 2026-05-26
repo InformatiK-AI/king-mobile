@@ -1,4 +1,4 @@
-﻿---
+---
 name: mobile
 color: pink
 description: "Agente de desarrollo móvil. Usar cuando se necesite: evaluar constraints de plataforma móvil, optimizar para battery/offline, revisar patrones React Native o Flutter, validar responsive design para dispositivos móviles, o auditar performance en dispositivos de gama baja."
