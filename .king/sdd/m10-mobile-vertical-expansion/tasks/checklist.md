@@ -39,8 +39,8 @@
 - Acceptance: M10 §7 / M-85.5 + M-85.6 · CASTLE C·S·T·E / C·S
 
 ## Sprint 7 — Knowledge + Template Spec  ·  worktree `feature/m10-sprint7`
-- [ ] T17 (2h): `knowledge/_inject/mobile-production-patterns.md` (≤120 líneas) — patrones consolidados de los 6 skills.
-- [ ] T18 (1h): `knowledge/_inject/mobile-saas-starter-spec.md` — spec template V8 (stack, features, done).
+- [x] T17: `knowledge/_inject/mobile-production-patterns.md` (120 líneas, dentro del límite tras /fix). DONE.
+- [x] T18: `knowledge/_inject/mobile-saas-starter-spec.md` — spec template V8. DONE. Merge 1cd4e03.
 - Cierre: `/sdd-verify` global + `/sdd-archive`.
 
 ---
