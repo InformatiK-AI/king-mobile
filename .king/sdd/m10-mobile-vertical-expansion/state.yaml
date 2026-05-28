@@ -1,0 +1,30 @@
+change: "m10-mobile-vertical-expansion"
+started: "2026-05-28T00:00:00Z"
+source_of_truth: "../../../../mejora/planes-detallados/M10-mobile-vertical-expansion.md"
+base_branch: develop
+delivery: sprint-by-sprint   # un worktree + merge a develop por sprint
+
+phases:
+  init: completed
+  explore: completed
+  proposal: completed
+  specs: completed
+  design: completed
+  tasks: completed
+  apply: pending
+  verify: pending
+  archive: pending
+
+sprints:
+  sprint1_push_notifications: pending
+  sprint2_biometric_auth: pending
+  sprint3_analytics: pending
+  sprint4_contracts: pending
+  sprint5_offline_sync: pending
+  sprint6_store_submit_deeplink: pending
+  sprint7_knowledge_template: pending
+
+artifact_store:
+  mode: openspec
+
+last_updated: "2026-05-28T00:00:00Z"
