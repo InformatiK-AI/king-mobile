@@ -26,9 +26,9 @@
 - Acceptance: M10 §7 / "Contratos bilaterales mobile.md"
 
 ## Sprint 5 — Offline Sync  ·  worktree `feature/m10-sprint5`
-- [ ] T10 (2h): `skills/mobile-offline-sync/SKILL.md` — Phases 0-3 (detect+schema, local-db, outbox, sync-engine).
-- [ ] T11 (2h): Completar Phases 4-6 (conflict-resolution, ui-indicator, test-offline) + `commands/mobile-offline-sync.md`.
-- [ ] T12 (1h): Editar `agents/mobile.md` — añadir sección "Contratos bilaterales activos" con los 5 contratos.
+- [x] T10: `skills/mobile-offline-sync/SKILL.md` — WatermelonDB/Drift, outbox FIFO, conflict-log. DONE.
+- [x] T11: `commands/mobile-offline-sync.md` + test offline. DONE. CASTLE C·S·T·L (§8).
+- [x] T12: `agents/mobile.md` — sección "Contratos bilaterales activos" (5 contratos). Agente deshuérfanado. DONE. Merge 1dcbbd0.
 - Acceptance: M10 §7 / M-85.2 · CASTLE C·S·T·L
 
 ## Sprint 6 — App Store Submit + Deep Linking  ·  worktree `feature/m10-sprint6`
