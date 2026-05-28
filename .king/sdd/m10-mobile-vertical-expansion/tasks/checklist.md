@@ -15,8 +15,8 @@
 - Acceptance: M10 §7 / M-85.3 · CASTLE S·T·E
 
 ## Sprint 3 — Analytics  ·  worktree `feature/m10-sprint3`
-- [ ] T05 (2h): `skills/mobile-analytics/SKILL.md` — Phases 0-3 (detect+provider, setup-sdk, define-events, screen-tracking).
-- [ ] T06 (2h): Completar Phases 4-5 (privacy-consent, session-replay) + `commands/mobile-analytics.md`.
+- [x] T05: `skills/mobile-analytics/SKILL.md` — eventos tipados SaaS/Consumer, screen tracking auto, PII masking, consent gate. DONE.
+- [x] T06: `commands/mobile-analytics.md`. DONE. Merge cdab84a. CASTLE C·S·T·E (§8).
 - Acceptance: M10 §7 / M-85.4 · CASTLE C·S·E
 
 ## Sprint 4 — Contratos bilaterales  ·  worktree `feature/m10-sprint4`
