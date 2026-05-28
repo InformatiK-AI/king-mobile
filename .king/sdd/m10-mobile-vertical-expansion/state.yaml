@@ -11,12 +11,12 @@ phases:
   specs: completed
   design: completed
   tasks: completed
-  apply: pending
+  apply: in_progress
   verify: pending
   archive: pending
 
 sprints:
-  sprint1_push_notifications: pending
+  sprint1_push_notifications: completed
   sprint2_biometric_auth: pending
   sprint3_analytics: pending
   sprint4_contracts: pending

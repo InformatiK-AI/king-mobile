@@ -5,8 +5,8 @@
 > Acceptance por skill: Gherkin de M10 §7. Gates: M10 §8.
 
 ## Sprint 1 — Push Notifications  ·  worktree `feature/m10-sprint1`
-- [ ] T01 (2h): `skills/mobile-push-notifications/SKILL.md` — Phases 0-2 (detect-framework, collect-config, client-setup).
-- [ ] T02 (2h): Completar Phases 3-5 (token-registry, opt-in-screen, test-send) + `commands/mobile-push-notifications.md`.
+- [x] T01: `skills/mobile-push-notifications/SKILL.md` — 6 fases (Phase 0 session + detect, client, token-registry, opt-in, test-send). DONE.
+- [x] T02: `commands/mobile-push-notifications.md`. DONE. Merge 5a3f235.
 - Acceptance: M10 §7 / M-85.1 · CASTLE C·S·E
 
 ## Sprint 2 — Biometric Auth  ·  worktree `feature/m10-sprint2`
