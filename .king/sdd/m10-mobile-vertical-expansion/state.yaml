@@ -21,7 +21,7 @@ sprints:
   sprint3_analytics: completed
   sprint4_contracts: completed
   sprint5_offline_sync: completed
-  sprint6_store_submit_deeplink: pending
+  sprint6_store_submit_deeplink: completed
   sprint7_knowledge_template: pending
 
 artifact_store:

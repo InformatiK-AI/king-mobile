@@ -32,10 +32,10 @@
 - Acceptance: M10 §7 / M-85.2 · CASTLE C·S·T·L
 
 ## Sprint 6 — App Store Submit + Deep Linking  ·  worktree `feature/m10-sprint6`
-- [ ] T13 (2h): `skills/mobile-app-store-submit/SKILL.md` — rejection checker + Phases 0-3.
-- [ ] T14 (2h): Completar Phases 4-5 (ci-workflow, submit) + `commands/mobile-app-store-submit.md`.
-- [ ] T15 (2h): `skills/mobile-deep-linking/SKILL.md` — AASA + assetlinks + Phases 0-5.
-- [ ] T16 (1h): `commands/mobile-deep-linking.md`.
+- [x] T13: `skills/mobile-app-store-submit/SKILL.md` — rejection checker + privacy manifest iOS17+. DONE. CASTLE C·S·T·E (§8).
+- [x] T14: `commands/mobile-app-store-submit.md` + ci-workflow + EAS Submit. DONE.
+- [x] T15: `skills/mobile-deep-linking/SKILL.md` — AASA + assetlinks + push integration + fallback web. DONE. CASTLE C·S.
+- [x] T16: `commands/mobile-deep-linking.md`. DONE. Merge e2c2587.
 - Acceptance: M10 §7 / M-85.5 + M-85.6 · CASTLE C·S·T·E / C·S
 
 ## Sprint 7 — Knowledge + Template Spec  ·  worktree `feature/m10-sprint7`
