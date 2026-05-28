@@ -19,7 +19,7 @@ sprints:
   sprint1_push_notifications: completed
   sprint2_biometric_auth: completed
   sprint3_analytics: completed
-  sprint4_contracts: pending
+  sprint4_contracts: completed
   sprint5_offline_sync: pending
   sprint6_store_submit_deeplink: pending
   sprint7_knowledge_template: pending

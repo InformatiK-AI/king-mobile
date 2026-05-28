@@ -20,9 +20,9 @@
 - Acceptance: M10 §7 / M-85.4 · CASTLE C·S·E
 
 ## Sprint 4 — Contratos bilaterales  ·  worktree `feature/m10-sprint4`
-- [ ] T07 (1h): `agents/_common/contracts/mobile-developer.md` (schema = devops-mobile.md).
-- [ ] T08 (1h): `agents/_common/contracts/mobile-frontend.md` + `mobile-performance.md`.
-- [ ] T09 (1h): `agents/_common/contracts/mobile-security.md` + `mobile-qa.md`.
+- [x] T07: `agents/_common/contracts/mobile-developer.md`. DONE.
+- [x] T08: `agents/_common/contracts/mobile-frontend.md` + `mobile-performance.md`. DONE.
+- [x] T09: `agents/_common/contracts/mobile-security.md` (MASVS/MSTG) + `mobile-qa.md` (device matrix, a11y VO/TB). DONE. Merge 2125493.
 - Acceptance: M10 §7 / "Contratos bilaterales mobile.md"
 
 ## Sprint 5 — Offline Sync  ·  worktree `feature/m10-sprint5`
