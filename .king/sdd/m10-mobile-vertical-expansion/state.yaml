@@ -17,7 +17,7 @@ phases:
 
 sprints:
   sprint1_push_notifications: completed
-  sprint2_biometric_auth: pending
+  sprint2_biometric_auth: completed
   sprint3_analytics: pending
   sprint4_contracts: pending
   sprint5_offline_sync: pending

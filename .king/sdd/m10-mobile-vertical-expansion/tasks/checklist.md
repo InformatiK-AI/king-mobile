@@ -10,8 +10,8 @@
 - Acceptance: M10 §7 / M-85.1 · CASTLE C·S·E
 
 ## Sprint 2 — Biometric Auth  ·  worktree `feature/m10-sprint2`
-- [ ] T03 (2h): `skills/mobile-biometric-auth/SKILL.md` — Phases 0-4 (Expo, bare RN, Flutter).
-- [ ] T04 (1h): `commands/mobile-biometric-auth.md` con ejemplos de los 3 frameworks.
+- [x] T03: `skills/mobile-biometric-auth/SKILL.md` — Keychain/Keystore, bloqueo AsyncStorage, fallback 3 intentos, enrollment 7d. DONE.
+- [x] T04: `commands/mobile-biometric-auth.md`. DONE. Merge 856843b. CASTLE S·T·E (corrige §2 del plan).
 - Acceptance: M10 §7 / M-85.3 · CASTLE S·T·E
 
 ## Sprint 3 — Analytics  ·  worktree `feature/m10-sprint3`
