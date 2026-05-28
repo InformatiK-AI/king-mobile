@@ -4,3 +4,6 @@
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# King worktrees — desarrollo aislado por feature
+.worktrees/
