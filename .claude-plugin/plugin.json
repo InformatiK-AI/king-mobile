@@ -1,7 +1,7 @@
 ﻿{
   "name": "king-mobile",
-  "version": "1.0.0",
-  "description": "King Mobile: desarrollo y publicación de apps móviles. /mobile-scaffold genera proyectos React Native o Flutter completos, /mobile-deploy configura CI/CD para App Store y Google Play via GitHub Actions.",
+  "version": "1.1.0",
+  "description": "King Mobile: ciclo completo de apps móviles (M10). /mobile-scaffold genera proyectos React Native o Flutter, /mobile-deploy configura CI/CD para App Store y Google Play, /mobile-offline-sync, /mobile-app-store-submit y /mobile-deep-linking cubren offline, publicación en stores y deep links. Agente @mobile con contratos bilaterales + knowledge de mobile-production-patterns.",
   "author": {
     "name": "InformatiK-AI",
     "email": "j.salgado2k@gmail.com"

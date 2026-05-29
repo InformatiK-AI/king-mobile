@@ -224,7 +224,19 @@ Detalle: [iOS Safari, Chrome Android — issues específicos]
 
 ---
 
-## 10. Handoff Protocol
+## 10. Contratos bilaterales activos
+
+| Contrato | Link | Descripción |
+|----------|------|-------------|
+| `mobile-developer` | [_common/contracts/mobile-developer.md](_common/contracts/mobile-developer.md) | Specs de feature ↔ permisos nativos, push tokens, deep link routes |
+| `mobile-frontend` | [_common/contracts/mobile-frontend.md](_common/contracts/mobile-frontend.md) | Design tokens ↔ web-responsive vs nativo, WebView shells |
+| `mobile-performance` | [_common/contracts/mobile-performance.md](_common/contracts/mobile-performance.md) | Presupuestos latencia/payload ↔ battery, JS thread, bundle, cold start |
+| `mobile-security` | [_common/contracts/mobile-security.md](_common/contracts/mobile-security.md) | Gates CASTLE ↔ Keychain/Keystore, jailbreak/root, cert pinning, OWASP MASVS |
+| `mobile-qa` | [_common/contracts/mobile-qa.md](_common/contracts/mobile-qa.md) | Test plan ↔ device matrix, low-end, a11y VoiceOver/TalkBack |
+
+---
+
+## 11. Handoff Protocol
 
 > Ver: [context-handoff.md](_common/context-handoff.md)
 

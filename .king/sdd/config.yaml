@@ -1,0 +1,40 @@
+schema: spec-driven
+
+context: |
+  Tech stack: Claude Code plugin (king-mobile) — skills Markdown/YAML + bash; sin runtime de app.
+  Architecture: King Framework v2.0 skill anatomy (Phases, CASTLE gates, PHASE ROUTER, session-management).
+  Testing: ninguno (plugin de documentación ejecutable — no hay test runner convencional).
+  Style: SKILL.md frontmatter (name, version, api_version, description); contratos bilaterales en agents/_common/contracts/.
+
+strict_tdd: false   # No test runner — TDD estricto no disponible
+
+artifact_store:
+  mode: openspec     # filesystem-first, git-friendly (viaja con los merges a develop)
+
+testing:
+  test_runner: none
+  unit: false
+  integration: false
+  e2e: false
+  coverage: false
+  linter: none
+
+rules:
+  proposal:
+    - Identificar skills/agents/knowledge afectados
+    - Referenciar el plan M10 como fuente de verdad (no duplicar)
+  specs:
+    - Usar Given/When/Then (Gherkin ya presente en M10 §7)
+    - Usar keywords RFC 2119 (MUST, SHALL, SHOULD, MAY)
+  design:
+    - Referenciar M10 §2 (diseño técnico por skill) — no duplicar
+  tasks:
+    - Agrupar por sprint (M10 §6)
+    - Un worktree + merge a develop por sprint
+  apply:
+    - Seguir King v2.0 skill anatomy (clonar estructura de mobile-scaffold)
+    - Archivos UTF-8 sin BOM
+  verify:
+    - Comparar contra acceptance criteria M10 §7 (Gherkin) + gates CASTLE §8
+  archive:
+    - Sync delta specs; copiar, no mover (filesystem-first)
