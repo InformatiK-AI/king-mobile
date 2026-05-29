@@ -1,0 +1,3 @@
+# Normalización de fin de línea — king-mobile
+# Todo el texto del plugin se almacena y hace checkout con LF.
+* text=auto eol=lf
