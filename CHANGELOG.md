@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.1.1] — 2026-05-29
+
+### Fixed
+- **plugin.json**: eliminado el BOM UTF-8 del manifest, que rompía la instalación del plugin vía marketplace (Claude Code hace `JSON.parse` directo y falla con BOM).
+
 ## [1.1.0] — 2026-05-29
 
 ### Added
