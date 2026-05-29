@@ -9,7 +9,7 @@
   "license": "MIT",
   "homepage": "https://github.com/InformatiK-AI/king-mobile",
   "repository": "https://github.com/InformatiK-AI/king-mobile",
-  "requires": ["king-framework"],
+  "requires": ["king-core"],
   "keywords": [
     "mobile",
     "react-native",
